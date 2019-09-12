@@ -1,3 +1,3 @@
-def catch_phrase = phrase
-  puts phrase = "It's me, Mario!"
+def catch_phrase = (phrase)
+  puts phrase {"It's me, Mario!"}
 end
